@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "2ea2bc7bf0e749b4b4e7c198738a7d17"
+	name: "OctaSkt#2ea2bc7b"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

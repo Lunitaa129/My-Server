@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "1e465e1045be4420a20031e6cd337afe"
+	name: "enriquezta#1e465e10"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "ef604205f19d430da688bc878fdf52f3"
+	name: "_Lunh#ef604205"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

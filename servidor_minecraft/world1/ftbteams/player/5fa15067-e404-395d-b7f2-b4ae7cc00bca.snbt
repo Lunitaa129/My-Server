@@ -1,0 +1,17 @@
+{
+	id: "5fa15067-e404-395d-b7f2-b4ae7cc00bca"
+	type: "player"
+	player_name: "OctaSkt"
+	ranks: {
+		5fa15067-e404-395d-b7f2-b4ae7cc00bca: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "OctaSkt"
+		"ftbteams:description": ""
+		"ftbteams:color": "#599FFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

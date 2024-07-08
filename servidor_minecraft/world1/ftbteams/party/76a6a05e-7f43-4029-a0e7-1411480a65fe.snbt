@@ -1,0 +1,17 @@
+{
+	id: "76a6a05e-7f43-4029-a0e7-1411480a65fe"
+	type: "party"
+	owner: "329bf97d-af05-3d95-bf16-16112e499bd8"
+	ranks: {
+		329bf97d-af05-3d95-bf16-16112e499bd8: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "_Lunh's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFF9E8"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1720398415142L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"_Lunh\"}]}" }]
+	extra: { }
+}

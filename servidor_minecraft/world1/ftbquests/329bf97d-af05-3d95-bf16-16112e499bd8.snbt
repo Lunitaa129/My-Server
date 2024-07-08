@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "329bf97daf053d95bf1616112e499bd8"
+	name: "_Lunh#329bf97d"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

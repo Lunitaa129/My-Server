@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "79eda19a67753138849f3e68450f0cee"
+	name: "ElThaler#79eda19a"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

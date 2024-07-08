@@ -1,0 +1,22 @@
+{
+	id: "1e465e10-45be-4420-a200-31e6cd337afe"
+	type: "party"
+	owner: "69ca4e23-697b-343f-80ca-c768cc344654"
+	ranks: {
+		69ca4e23-697b-343f-80ca-c768cc344654: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "enriquezta"
+		"ftbteams:description": "pene"
+		"ftbteams:color": "#FA59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1720331076697L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"GarrysDz_\"}]}" }
+		{ from: "69ca4e23-697b-343f-80ca-c768cc344654", date: 1720398465544L, text: "{\"text\":\"/unparty\"}" }
+		{ from: "69ca4e23-697b-343f-80ca-c768cc344654", date: 1720398467083L, text: "{\"text\":\"a\"}" }
+		{ from: "69ca4e23-697b-343f-80ca-c768cc344654", date: 1720398498671L, text: "{\"text\":\"asadasdasda\"}" }
+	]
+	extra: { }
+}
